@@ -13,7 +13,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping("/Hotels")
+@RequestMapping("/hotels")
 public class HotelController {
 
     @Autowired
